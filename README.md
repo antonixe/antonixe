@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Anthony Khaoya</h1>
-<h3 align="center">A passionate frontend I am a highly motivated software engineer with a passion for creating efficient and effective solutions. With a strong background in programming languages and technologies, I have a proven track record of delivering high-quality software on time and within budget. I am always eager to learn new technologies and tackle challenging problems. When I'm not coding, you can find me hiking, reading, or trying out new recipes.</h3>
+<h1 align="center">Hi, I'm Anthony Khaoya</h1>
+<h3 align="center">A passionate frontend I am a highly motivated software engineer with a passion for creating efficient and effective solutions. With a strong background in programming languages and technologies, I have a proven track record of delivering high-quality software on time and within budget. I am always eager to learn new technologies and tackle challenging problems.</h3>
 
 - 🌱 I’m currently learning **cloud computing**
 
