@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Anthony Khaoya</h1>
-<h3 align="center">A passionate frontend I am a highly motivated software engineer with a passion for creating efficient and effective solutions. With a strong background in programming languages and technologies, I have a proven track record of delivering high-quality software on time and within budget.</h3>
+<h3 align="center">As a full stack developer with a strong sense of motivation, I have a love for developing effective and efficient solutions. I have a solid expertise in programming languages and technologies, and I have a track record of producing high-quality software on schedule and on budget..</h3>
 
 - 🌱 I’m currently learning **cloud computing**
 
