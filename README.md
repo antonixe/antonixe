@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **cloud computing**
 
-- 💬 Ask me about **python,C++,C**
+- 💬 Ask me about **python**
 
 - 📫 How to reach me **anthonykhaoya1@gmail.com**
 
